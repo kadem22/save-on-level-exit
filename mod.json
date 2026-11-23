@@ -1,0 +1,11 @@
+{
+  "geode": "4.4.0",
+  "gd": {
+    "win": "2.2074"
+  },
+  "id": "user.save_on_level_exit",
+  "name": "Save on Level Exit",
+  "version": "v1.0.0",
+  "developer": "User",
+  "description": "Saves game data immediately upon exiting PlayLayer (PlayLayer::onQuit)."
+}
